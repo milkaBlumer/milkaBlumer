@@ -50,7 +50,8 @@ A full system for managing real-time queues with asynchronous flow and multiple 
 
 ### Verification Projects (SystemVerilog & UVM)
 
-* LFSR block on a full chip - RTL, Development of UVM components such as agents, monitors, scoreboards, and RAL models.
+LFSR block on a full chip - RTL, Development of UVM components such as agents, monitors, scoreboards, and RAL models.
+**Tech:** verilog, system verilog, UVM
 
 ### Submarines Game
 Find the hidden submarines, Development of JavaScript, CSS3, HTML5.
