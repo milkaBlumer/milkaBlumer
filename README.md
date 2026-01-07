@@ -50,11 +50,10 @@ A full system for managing real-time queues with asynchronous flow and multiple 
 
 ### Verification Projects (SystemVerilog & UVM)
 
-Development of UVM components such as agents, monitors, scoreboards, and RAL models.
+* LFSR block on a full chip - RTL, Development of UVM components such as agents, monitors, scoreboards, and RAL models.
 
-### Fullstack Applications
-
-Frontend (React) integrated with backend services, authentication, and database logic.
+### Submarines Game
+Find the hidden submarines, Development of JavaScript, CSS3, HTML5.
 
 ---
 
