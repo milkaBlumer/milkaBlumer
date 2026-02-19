@@ -31,7 +31,7 @@ C/C++, C#, Java, TypeScript
 .NET Core, React, Redux Toolkit, Angular, MUI
 
 **Verification & Hardware**
-Verilog, SystemVerilog, UVM, Scoreboards, Sequences, RAL
+Verilog, SystemVerilog, UVM, Debug and Coverege
 
 **Databases**
 SQL Server, H2
